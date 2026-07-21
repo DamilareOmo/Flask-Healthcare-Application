@@ -183,3 +183,7 @@ Flask form  --insert-->  MongoDB
                             |
               data/client_presentation.pptx
 ```
+
+## Author
+
+Sodiq Omoniyi | Developer | Final Project: Flask Healthcare Application
