@@ -1,11 +1,7 @@
 # Flask Healthcare Application
 # Household Income & Spending Survey
 
-A Flask + MongoDB survey tool that collects respondents' age, gender, total
-income, and category-level expenses (utilities, entertainment, school fees,
-shopping, healthcare), then processes the results into a CSV, analyzes them
-in a Jupyter notebook, and exports client-ready charts and a PowerPoint deck
-— built ahead of a new healthcare product launch.
+A Flask + MongoDB survey tool that collects respondents' age, gender, total income, and category-level expenses (utilities, entertainment, school fees, shopping, healthcare), then processes the results into a CSV, analyzes them in a Jupyter notebook, and exports client-ready charts and a PowerPoint deck built ahead of a new healthcare product launch.
 
 ## Project structure
 
